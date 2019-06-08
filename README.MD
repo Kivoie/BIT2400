@@ -8,4 +8,7 @@ WRITING FROM THE UNIVERSITY.
 Instructor: Chris Joslin  
 Student: Danny Vuong  
 Student ID: 101040331  
-Assignment: Assignment 6 - Using Github
+Assignment: Assignment 6 - Using Github  
+
+Attached is a map of my commit history that I drew. Please refer to my Word document on cuLearn for more information.
+<https://cdn.discordapp.com/attachments/575508550265077761/586824961860173844/20190608_033541.jpg>
