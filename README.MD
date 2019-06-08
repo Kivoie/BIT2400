@@ -7,5 +7,5 @@ WRITING FROM THE UNIVERSITY.
 
 Instructor: Chris Joslin  
 Student: Danny Vuong  
-Student ID: 101040331
+Student ID: 101040331  
 Assignment: Assignment 6 - Using Github
