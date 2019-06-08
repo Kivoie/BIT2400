@@ -1,0 +1,1 @@
+open .MD (Markdown) files with any text editor, personally i recommend NotePad++
