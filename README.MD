@@ -11,4 +11,8 @@ Student ID: 101040331
 Assignment: Assignment 6 - Using Github  
 
 Attached is a map of my commit history that I drew. Please refer to my Word document on cuLearn for more information.
-<https://cdn.discordapp.com/attachments/575508550265077761/586824961860173844/20190608_033541.jpg>
+<https://cdn.discordapp.com/attachments/575508550265077761/586824961860173844/20190608_033541.jpg>  
+
+
+
+![we should've done this.. by Megatruh](https://i.imgur.com/S0hIs2a.jpg)
